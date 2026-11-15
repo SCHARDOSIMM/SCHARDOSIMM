@@ -2,7 +2,7 @@
 
 ### Engenharia Civil · Python · Automação de processos
 
-Sou estudante de Engenharia Civil na UFRGS e atuo em projetos de infraestrutura de transportes e pesquisa em economia dos transportes. Na Ecoplan Engenharia, trabalho com projetos rodoviários, geometria viária e modelagem em Civil 3D. No LASTRAN/UFRGS, desenvolvo pesquisas e analiso dados e indicadores de transporte.
+Sou estudante de Engenharia Civil na UFRGS e atuo em projetos de infraestrutura de transportes e pesquisa em economia dos transportes. Na Ecoplan Engenharia, trabalho com projetos rodoviários, geometria viária e modelagem, além de automações que possibilitam a melhoria no fluxo de trabalho da equipe. No LASTRAN/UFRGS, desenvolvo pesquisas e analiso dados e indicadores de transporte.
 
 Combino essa experiência com programação em Python para criar ferramentas voltadas a problemas práticos da engenharia. Meu primeiro projeto publicado, o MS Estruturas, é uma aplicação desktop para modelagem e análise linear de estruturas de barras, com visualização de resultados e geração de relatórios.
 
