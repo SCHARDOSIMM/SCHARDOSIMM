@@ -2,7 +2,7 @@
 
 ### Engenharia Civil · Python · Automação de processos
 
-Sou Engenhaeiro Civil em formação pela **Universidade Federal do Rio Grande do Sul (UFRGS)** e experiência no mercado de trabalho. Conecto conhecimento técnico e programação para desenvolver ferramentas que organizem informações, melhorem processos e apoiem decisões.
+Sou Engenheiro Civil em formação pela **Universidade Federal do Rio Grande do Sul (UFRGS)** e experiência no mercado de trabalho. Conecto conhecimento técnico e programação para desenvolver ferramentas que organizem informações, melhorem processos e apoiem decisões.
 
 Minha experiência inclui contribuições para melhorias de produção, organização e rentabilidade por meio de automações. Meu foco é transformar necessidades práticas em soluções que ajudem a reduzir tarefas repetitivas, cumprir prazos e utilizar melhor os recursos.
 
