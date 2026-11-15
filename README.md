@@ -2,9 +2,9 @@
 
 ### Engenharia Civil · Python · Automação de processos
 
-Sou Engenheiro Civil em formação pela **Universidade Federal do Rio Grande do Sul (UFRGS)** e experiência no mercado de trabalho. Conecto conhecimento técnico e programação para desenvolver ferramentas que organizem informações, melhorem processos e apoiem decisões.
+Sou estudante de Engenharia Civil na UFRGS e atuo em projetos de infraestrutura de transportes e pesquisa em economia dos transportes. Na Ecoplan Engenharia, trabalho com projetos rodoviários, geometria viária e modelagem em Civil 3D. No LASTRAN/UFRGS, desenvolvo pesquisas e analiso dados e indicadores de transporte.
 
-Minha experiência inclui contribuições para melhorias de produção, organização e rentabilidade por meio de automações. Meu foco é transformar necessidades práticas em soluções que ajudem a reduzir tarefas repetitivas, cumprir prazos e utilizar melhor os recursos.
+Combino essa experiência com programação em Python para criar ferramentas voltadas a problemas práticos da engenharia. Meu primeiro projeto publicado, o MS Estruturas, é uma aplicação desktop para modelagem e análise linear de estruturas de barras, com visualização de resultados e geração de relatórios.
 
 **[Conheça meu portfólio →](https://schardosimm.github.io/)**
 
